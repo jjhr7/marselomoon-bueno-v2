@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="minijuego" size="50.000000 72.459641" />
+    <ImageTarget name="tarjeta-90c" size="1000.000000 1443.055542" />
+    <ImageTarget name="Terjeta-rody" size="1000.000000 1430.555542" />
+    <ImageTarget name="its-k" size="1000.000000 666.992188" />
+  </Tracking>
+</QCARConfig>
